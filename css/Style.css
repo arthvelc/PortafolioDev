@@ -44,7 +44,7 @@ html {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: var(--dark-color);
+    background-color: #0c0c0ca6;
     padding: 1rem;
 }
 

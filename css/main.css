@@ -89,6 +89,9 @@ html {
 
 .social-links{
     margin-top: 1rem;
+    border-radius: 1rem;
+    width: 25%;
+    padding: 1rem;
 }
 
 
@@ -122,6 +125,7 @@ html {
     font-size: 2rem;
     font-family: "Plus Jakarta Sans";
     font-weight: 600;
+    border: 1px solid var(--dark-color);
 }
 
 .cv-button{
